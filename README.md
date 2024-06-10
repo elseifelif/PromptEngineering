@@ -13,6 +13,6 @@ The experiments and prompts will be documented here.
 
 ## Projects
 
-|   Project   | Project Repository | Live Project Link |
-| ----------- | ------------------ | ----------------- |
-| Memory Game | [Repository Link](https://github.com/elseifelif/PromptEngineering/tree/MemoryGame) | [Live Project](https://promptengineeringmemorygame-tzkw3.kinsta.page)|
+|   Project   | Project Repository | Live Project Link | Prompts |
+| ----------- | ------------------ | ----------------- |----------------- |
+| Memory Game | [Repository Link](https://github.com/elseifelif/PromptEngineering/tree/MemoryGame) | [Live Project](https://promptengineeringmemorygame-tzkw3.kinsta.page)|[Prompt File](https://github.com/elseifelif/PromptEngineering/blob/MemoryGame/Prompts.md)|
